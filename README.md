@@ -54,7 +54,7 @@
     <h3>NTT DATA - Everis</h3>
     <img src="https://www.everis.com/sites/all/themes/everis/logo.png" alt="everis-logo">
     <img src="https://cdn.worldvectorlogo.com/logos/interbank-2.svg" alt="interbank-logo" width="80px">
-    <img src="https://logos-world.net/wp-content/uploads/2021/03/Scotiabank-Emblem.png" alt="interbank-logo" width="80px">
+    <img src="https://logos-marcas.com/wp-content/uploads/2021/03/Scotiabank-Logo.png" alt="scotiabank-logo" width="80px">
     <h4><b>Software Engineer</b> (Nov 2019 - Present)</h4>
     <p>I worked for <b>Interbank</b> on Fintech and Chatbot projects for 3 months.
     I have been working for <b>Scotiabank</b> in Internet Banking since February.
