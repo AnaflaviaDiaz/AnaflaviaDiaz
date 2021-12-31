@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anaflavia Diaz</h1>
 <h3 align="center">A passionate frontend developer from Perú.</h3>
 
-- 🔭 I'm currently working on [Scotiabank Perú](https://mi.scotiabank.com.pe/login)
+- 🔭 I'm currently working on [Innoqa](https://innoqa.es/)
 - 🔭 I'm currently working as freelancer on **Crece Más +**
 - 📫 How to reach me **anaflaviadmar@gmail.com**
 
