@@ -50,7 +50,7 @@
 <h3>Connect with me:</h3>
 
 <p>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/anaflavia-diaz/" target="blank">
+  <a href="https://www.linkedin.com/in/anaflavia-diaz/" target="blank">
   <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="https://www.linkedin.com/in/anaflavia-diaz/" height="30" width="30" /> anaflavia-diaz</a>
 </p>
 
