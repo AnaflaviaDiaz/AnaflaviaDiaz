@@ -10,7 +10,10 @@
 <img src="https://user-images.githubusercontent.com/15807118/117588220-abba9d80-b0e7-11eb-8191-6864e086362f.jpeg" alt="my-photo" width="250px">
 </div>
 
-> I am a web and mobile Frontend Developer with experience in banking and electronic invoicing. I like to develop the best experiences between the user and the web or mobile application. My skills are commitment, self-learning, teamwork, adaptability, punctuality and responsibility; with the ability to work under pressure. My goal is to capture all my knowledge for the benefit of the company to which I provide my services.
+> I am a Web and Mobile Frontend developer with experience in the industrial, banking and electronic invoicing.
+I like to develop the best experiences between the user and the web or mobile application. 
+My skills are commitment, self-learning, teamwork, adaptability, punctuality and responsibility; with the ability to work under pressure. 
+My goal is to reflect all my knowledge for the benefit of the company to which I provide my services.
 
 <h2>Languages and Skills</h2>
 
