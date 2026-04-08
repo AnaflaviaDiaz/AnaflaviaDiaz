@@ -17,16 +17,17 @@ My goal is to reflect all my knowledge for the benefit of the company to which I
 
 <h2>Languages and Skills</h2>
 
-Frontend: Angular (v5 – v19), React, React Native
-Lenguajes: TypeScript, JavaScript (ES6+)
-Arquitectura: Microfrontends, Component Libraries, Clean Architecture, Modular Architecture
-State Management: RxJS
-Testing: Jest, Jasmine, Karma
-Estilos: Sass, CSS3, Bootstrap, Styled Components
-Herramientas: Storybook, Jira
-CI/CD: Jenkins, Docker
-Control de versiones: Git, Bitbucket
-Accesibilidad: WCAG 2.1 AA
+<ul>
+  <li>Frontend: Angular (v5 – v19), React, React Native</li>
+  <li>Lenguajes: TypeScript, JavaScript (ES6+)</li>
+  <li>Arquitectura: Microfrontends, Component Libraries, Clean Architecture, Modular Architecture</li>
+  <li>State Management: RxJS</li>
+  <li>Testing: Jest, Jasmine, Karma, Vitest</li>
+  <li>Herramientas: Storybook, Jira</li>
+  <li>CI/CD: Jenkins, Docker</li>
+  <li>Control de versiones: Git, Bitbucket</li>
+  <li>Accesibilidad: WCAG 2.1 AA</li>
+</ul>
 
 <h3>Connect with me:</h3>
 
