@@ -18,7 +18,7 @@ My goal is to reflect all my knowledge for the benefit of the company to which I
 <h2>Languages and Skills</h2>
 
 <ul>
-  <li>Frontend: Angular (v5 – v19), React, React Native</li>
+  <li>Frontend: Angular (Js – v19), React, React Native</li>
   <li>Lenguajes: TypeScript, JavaScript (ES6+)</li>
   <li>Arquitectura: Microfrontends, Component Libraries, Clean Architecture, Modular Architecture</li>
   <li>State Management: RxJS</li>
