@@ -26,17 +26,6 @@ My goal is to reflect all my knowledge for the benefit of the company to which I
 </ul>
 
 <h3>Connect with me:</h3>
-
-<p>
-  <a href="https://www.linkedin.com/in/anaflavia-diaz/" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png" alt="https://www.linkedin.com/in/anaflavia-diaz/" height="30" width="30" /> anaflavia-diaz</a>
-</p>
-
-<p>
-  <a href="https://instagram.com/iam_anaflavia" target="blank">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="iam_anaflavia" height="30" width="40" />iam_anaflavia</a>
-</p>
-
 <p>
   <img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/11/Gmail-Logo.png" alt="iam_anaflavia" height="23" width="40" />
   <a href="mailto:anaflaviadmar@gmail.com">anaflaviadmar@gmail.com</a>
